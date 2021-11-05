@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyJYGyp/aCO+IzH1RbROxncqvDUGWeiUlbJFwtGLeJWRHUFNbUsA92AkIgoQE9RHVNrQ3qqdR25HCNqTLIv9Vw==",
+  "success": true,
+  "projectFilePath": "/home/runner/Hello-world/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/csharp.toolbox/1.0.0/csharp.toolbox.1.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.platforms/5.0.4/microsoft.netcore.platforms.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
